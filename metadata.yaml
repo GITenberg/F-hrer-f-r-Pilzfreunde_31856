@@ -1,0 +1,29 @@
+_repo: F-hrer-f-r-Pilzfreunde_31856
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Michael, Edmund
+    birthdate: 1849
+    deathdate: 1920
+    gutenberg_agent_id: '35518'
+    url: http://www.gutenberg.org/2009/agents/35518
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Mycology
+gutenberg_issued: '2010-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31856'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Mushrooms -- Identification'
+title: Führer für Pilzfreunde
+url: http://www.gutenberg.org/ebooks/31856
